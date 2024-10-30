@@ -17,7 +17,7 @@ app = Flask(__name__)
 smtp_server = "smtp.gmail.com"
 smtp_port = 465
 sender_email = "happy.prince.max@gmail.com"
-password = "unpn umpg hvzg elxe"
+password = "****" # use your own password
 
 options = Options()
 options.add_argument("--headless")
