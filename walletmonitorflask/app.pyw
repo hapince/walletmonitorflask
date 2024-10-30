@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 smtp_server = "smtp.gmail.com"
 smtp_port = 465
-sender_email = "happy.prince.max@gmail.com"
+sender_email = "happy.prince.max@gmail.com" #your email
 password = "****" # use your own password
 
 options = Options()
